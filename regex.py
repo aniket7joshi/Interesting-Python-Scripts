@@ -1,0 +1,10 @@
+
+
++91 XXXX NNNNNN
++91-XXXX-NNNNNN
++91-XXXX NNNNNN
++91 XXXX-NNNNNN
+
++91[-\s][7-9][0-9]{3}[-\s][0-9]{6}
+
+fdsl4324kvlfdmvld
